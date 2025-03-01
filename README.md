@@ -1,7 +1,7 @@
 Smart Digital NightClub
 ====
-This project, built with the PIC18F4520 microcontroller, features crowd control, lighting and music control, and indoor temperature regulation,  
-utilizing components such as a temperature sensor and an infrared sensor to achieve smart functionality.
+This project, built with the PIC18F4520 microcontroller, features crowd control, lighting and music control, and
+indoor temperature regulation, utilizing components such as a temperature sensor and an infrared sensor to achieve smart functionality.
 
 Flowchart
 ----
